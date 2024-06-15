@@ -37,8 +37,8 @@ body {
 }
 
 #container {
-  width: 36rem;
-  /*height: 71.2rem;*/
+  width: 100%;
+  max-width: 58.8rem;
   margin: auto;
   margin-top: 5.6rem;
 }
