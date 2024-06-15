@@ -153,3 +153,14 @@ footer {
   font-size: 1.4rem;
   text-align: center;
 }
+
+/*Midia queries*/
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+
+  .ligth {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
+}
